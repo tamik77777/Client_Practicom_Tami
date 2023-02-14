@@ -1,0 +1,6 @@
+ 
+  [
+  { "name": "tami", "price": 19, "src": "../images/J0178523.JPG" ,"id":1,"desc":"expensive"},
+  { "name": "chemda", "price": 21, "src": "../images/J0284916.JPG","id":2,"desc":"expensive" },
+  { "name": "sari", "price": 8, "src": "../images/PH03143I.JPG" ,"id":3,"desc":"expensive"}
+  ]
